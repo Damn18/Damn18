@@ -1,4 +1,6 @@
 ## Hi there 👋
 
-![TNT Image](tnt.png)
+<p align="center">
+  ![TNT Image](tnt.png)
+</p>
 
