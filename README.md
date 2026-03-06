@@ -1,4 +1,4 @@
 ## Hi all!
 
-Trained as data scientist, currently working as software developer. 
+Trained as data scientist, currently working as backend software developer. 
 
