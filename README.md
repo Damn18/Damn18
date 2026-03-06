@@ -1,3 +1,4 @@
-## Hi there 👋
+## Hi all!
 
-![TNT Image](https://github.com/Damn18/Damn18/blob/main/tnt.png?raw=true)
+Trained as data scientist, currently working as software developer. 
+
